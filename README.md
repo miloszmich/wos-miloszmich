@@ -6,9 +6,11 @@
 
 ### Install using WP
 - Go to plugin Plugins manager and install zipped package
+- Activate plugin adn go to plugin settings 
 
 ### Install manually
 - Copy files to <WP root directory>/wp-content/plugins/
+- Activate plugin adn go to plugin settings 
 
 
 
