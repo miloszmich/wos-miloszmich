@@ -4,7 +4,7 @@
 
 ## Installation
 
-### Install usin WP
+### Install using WP
 - Go to plugin Plugins manager and install zipped package
 
 ### Install manually
